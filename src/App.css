@@ -1,0 +1,30 @@
+
+  
+  .container {
+    background-color: #ffffff; /* White */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #021707; /* Green */
+    border-color: white
+  }
+  
+  .btn-primary:hover {
+    background-color: #218838; /* Darker Green */
+    border-color: #218838;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; /* Red */
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /* Darker Red */
+    border-color: #c82333;
+  }
+  

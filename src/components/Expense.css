@@ -1,0 +1,21 @@
+body{
+ 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+.container{
+  box-shadow: 0 4px 8px 0 rgba(64, 56, 56, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(243, 230, 217);
+}
+.mb-2{
+  width: 40%;
+}
+.total
+{
+  font-style: italic;
+  color: red;
+
+}
